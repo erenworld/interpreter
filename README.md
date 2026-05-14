@@ -2,7 +2,6 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22%2B-blue)](https://go.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Dependabot Enabled](https://img.shields.io/badge/Dependabot-Active-brightgreen)](https://github.com/dependabot)
 
 
 **Karp** is an interpreter for the Karp programming language, implemented in **Go (Golang)**.
